@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/Users/mcleans/esp/ESP8266_RTOS_SDK/components/freertos/include"
+            ],
+            "defines": [],
+            "macFrameworkPath": [],
+            "compilerPath": "/opt/homebrew/bin/arm-none-eabi-gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "macos-gcc-arm"
+        }
+    ],
+    "version": 4
+}

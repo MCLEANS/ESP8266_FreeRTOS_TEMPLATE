@@ -8,7 +8,7 @@ make menuconfig
 ```
 
 * Set serial port under Serial Flasher Options.  
-* `make monitor` baud rate set to what you set in the example.
+* `make monitor` baud rate set to what you set your firmware.
 
 
 ### Build and Flash

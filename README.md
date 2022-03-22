@@ -1,5 +1,5 @@
-# Hello World Example
+# Blinky Example
 
-Starts a FreeRTOS task to print "Hello World"
+Starts a FreeRTOS task to print "Blink LED ON GPIO16"
 
-See the README.md file in the upper level 'examples' directory for more information about examples.
+
